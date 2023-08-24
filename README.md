@@ -1,1 +1,1 @@
-# Django_How-to-write-reusable-Apps
+# Django - How to write reusable Apps
